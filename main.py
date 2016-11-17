@@ -1,13 +1,11 @@
 #!/usr/bin/python3
 
-
 mi_nombre = input("Hola, Como te llamas: ")
 
 def out_name(name):
     print(name)
 
 out_name(mi_nombre)
-
 
 
 class Employee:
